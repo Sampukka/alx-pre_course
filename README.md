@@ -1,2 +1,1 @@
-My first readme
-My first readme
+I want to be a great programmer
